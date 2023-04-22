@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 # 设置各变量
+SERVER_IP='127.0.0.1'
+SERVER_PORT:'8080'
 UUID='de04add9-5c68-8bab-950c-08cd5320df18'
 VMESS_WSPATH='/vmess'
 VLESS_WSPATH='/vless'
